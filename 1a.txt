@@ -1,0 +1,4 @@
+A-2000       B-1960          C-1975
+A-iOS 11.2   B-Android 7.0   C-windows 7  
+A-Spanish    B-English       C-Chinese 
+A.SSD        B.Internal HD  C-External HD
